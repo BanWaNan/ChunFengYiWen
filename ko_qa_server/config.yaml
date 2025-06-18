@@ -20,14 +20,14 @@ choose_small_model: "qwen"
 
 small_models:
   gpt:
-    api_key: "sk-SxFJyauOcVOO1Lxu6WG6D0Xl2sUlP3OuuXa3LftB2wFOvlsg"
-    base_url: "https://api.chatanywhere.tech/v1"
+    api_key: ""
+    base_url: ""
   qwen:
-    api_key: "sk-1c8ca6ab254349c6a17fecf753d2dd15"
-    base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    api_key: ""
+    base_url: ""
   kimi:
-    api_key: "sk-KDXjZAEMiouj1kxwfcFJUJJ6DCrzyrvneNQ6BEV72RWYgium"
-    base_url: "https://api.moonshot.cn/v1"
+    api_key: ""
+    base_url: ""
 
 # 默认向量模型
 embedding_model: "qwen"
